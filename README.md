@@ -30,6 +30,12 @@ it arrives, hence complications.
 Since March 2017, you have to bring a special document, signed by your host,
 that proves the address, date of arrival and all the guests.
 
+There's a cheat: if you come to KVR with a kid, you can ask for a special number
+in queue. With this number, whatever the length of the queue is, you'll be able
+to enter much quicker. To do this, just enter the door in the waiting area and
+say that you came to register address with a child. The officer will give you a
+number (green talon). Now wait until you're invited.
+
 Todo:
 
 - [ ] Book an apartment on Airbnb and inform the host that you'll receive post, probably after your departure from the apartment.
