@@ -105,3 +105,39 @@ There are also more expensive options for shorter terms (6–36 months):
 - [Mr. Lodge](https://www.mrlodge.com/)
 
 And of course, Airbnb.
+
+There's no strict price tag, however, what is good, is that any apartment, no
+matter the number of rooms, is priced against area, typically €15–20 for square
+meter. Apartments on first floors (sometimes marked as "0 von N", zeroth of
+many) sometimes have access to a private garden, which is damn good. Apartments
+on topmost floors sometimes have access to roof (rare) and generally give you
+the joy of triangular ceiling (if you like).
+
+First thing you do is decide what kind of an apartment you're looking for. A
+2-room apartment in Germany is somewhat like 1–room in the US: you have one
+separate room and one room combined with cooking space. For a family with a kid,
+to stay sane, it would be a good idea to look for a 3–room apartment.
+
+Next, you start bombing potential landlords with messages that say
+
+- what good a person you are,
+- what gross or net income you have,
+- that your spouse isn't a student, because nobody likes students,
+- that you don't have pets and also you don't smoke (and don't vape either),
+- that you have a working contract (in case you do),
+- that you're eager to visit the apartment and see it, and
+- that you have SCHUFA (if you do), three last salary slips (no idea what to do
+  if not) and Mieterselbstauskunft (sort of mandatory).
+
+If things go well and you reach the next dungeon level, you're long-listed by
+landlords or agents to visit the apartment. The sign of it is either a phone
+call or an email. Most landlords don't speak English, but most agents do, so
+that's actually a secondary sign of an agent. Typically, you don't have a
+choice: you're either given a certain time to visit an apartment for about 30
+minutes, otherwise good luck finding another one.
+
+Todo:
+
+- [ ] The hell is N½, like 1.5- or 2.5-room apartments?
+- [ ] Do landlords expect gross or net income in an intro message?
+- [ ] What happens next, when you visit a potential apartment?
