@@ -27,8 +27,10 @@ send you a bunch of documents by post, and getting them both issued and
 delivered may take weeks and months. You may have left the apartment by the time
 it arrives, hence complications.
 
-Since March 2017, you have to bring a special document, signed by your host,
-that proves the address, date of arrival and all the guests.
+Since March 2017, you have to bring **a special document**, signed by your host,
+that proves the address, date of arrival and all the guests:
+["Wohnungsgeberbestätigung zur Vorlage bei der
+Meldebehörde"](https://www.muenchen.de/rathaus/dam/jcr:2c08134d-c663-452b-9eb5-3ce859ba5d37/Wohnungsgeberbest&auml;tigung_Internet.pdf).
 
 There's a cheat: if you come to KVR with a kid, you can ask for a special number
 in queue. With this number, whatever the length of the queue is, you'll be able
