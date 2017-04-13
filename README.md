@@ -81,7 +81,9 @@ Banks:
 
 ## Tax ID
 
-You receive one by mail after you first register in Germany. If you went to register with the whole family (which is the right way to do), all members receive envelopes with their Tax IDs.
+You receive one by mail after you first register in Germany, after 4+ weeks. If
+you went to register with the whole family (which is the right way to do), all
+members receive envelopes with their Tax IDs.
 
 No need to go to Finanzamt.
 
