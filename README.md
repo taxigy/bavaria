@@ -73,14 +73,13 @@ Banks:
 
 ## Tax ID
 
-todo
+You receive one by mail after you first register in Germany. If you went to register with the whole family (which is the right way to do), all members receive envelopes with their Tax IDs.
 
-Finanzamt München
-Katharina-von-Bora-Straße 4
-80333 Munich
-Germany
+No need to go to Finanzamt.
 
-([map](https://maps.apple.com/place?address=Katharina-von-Bora-Straße%204%0A80333%20Munich%0AGermany&auid=8972160019188516984&ll=48.143030000000003%2C11.56531&q=Finanzamt%20München))
+If, for some reason, delivery failed, you can TBD.
+
+- [ ] What if failed?
 
 ## Long-term (aka cheap) rental
 
