@@ -5,7 +5,14 @@
 Go to T-Mobile (Telekom) and get a prepaid SIM. €20 first, €15 every month for
 "L" plan.
 
-To refill the SIM, use [Prepaid Aufladung app](https://itunes.apple.com/de/app/prepaid-aufladung/id881818215?mt=8).
+To refill the SIM, go to [the "Aufladebetrag auswählen"
+website](https://www.telekomaufladen.de/) or use ["Prepaid Aufladung"
+app](https://itunes.apple.com/de/app/prepaid-aufladung/id881818215?mt=8). On the
+website, it's possible to set up automatic payments.
+
+Todo:
+
+- [ ] Move from prepaid to long-term contract (why?).
 
 ## Short-term (aka expensive) rental
 
@@ -64,8 +71,9 @@ Companies:
 
 ## Bank account
 
-To receive a salary, you need a bank account that would provide valid name, IBAN
-and BIC, in EUR currency.
+To receive a salary and be able to transfer money for your future long-term
+rental, you need a bank account that would provide valid name, IBAN and BIC, in
+EUR currency.
 
 Banks:
 
@@ -142,3 +150,41 @@ Todo:
 - [ ] The hell is N½, like 1.5- or 2.5-room apartments?
 - [ ] Do landlords expect gross or net income in an intro message?
 - [ ] What happens next, when you visit a potential apartment?
+
+## Regular kids activities
+
+For children under 6, there are two: Kindergarten and Tagesmutter. The former
+is, well, kindergarten, while the latter is a light option when a private
+pedagogue would establish a hosted few-hours activities on a weekday basis.
+
+German-only kindergartens are prevalent, but it can be super tough for a toddler
+to attend these. Bilingual kindergartens are better, but almost none of them are
+public.
+
+Prices:
+
+- public: free, locals consider this the best option,
+- private: €650–1000 per month, depending on hours per day, days per week, the
+  location and whatever else the owner considers worth asking for
+
+Todo:
+
+- [ ] Find one.
+
+## Public transport
+
+Go to subway, buy a monthly card depending on your daily route.
+
+The greater Munich area is divided into 4 zones, each consisting of 4 rinds, so
+16 rings in total: [see official
+doc](http://www.mvv-muenchen.de/en/tickets-fares/tariff-structure/rings/index.html).
+You can download detailed maps there as well.
+
+Take your daily route, find stations on the map, find what rings these stations
+belong to, and buy a corresponding card. The more rings, the more expensive, so
+it's of your best interest to understand this thing.
+
+You can also use an app to buy tickets, which is cool because a ticket, which is
+a piece of paper, can get worn out or lost. The phone can also get lost, of
+course, so choose wisely. The app is ["MVV
+Companion"](https://itunes.apple.com/de/app/mvv-companion/id388686726?mt=8).
