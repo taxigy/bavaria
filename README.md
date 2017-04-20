@@ -3,12 +3,14 @@
 ## Phone number
 
 Go to T-Mobile (Telekom) and get a prepaid SIM. €20 first, €15 every month for
-"L" plan.
+"L" plan for 1.5GB data and paid calls and SMS.
 
 To refill the SIM, go to [the "Aufladebetrag auswählen"
 website](https://www.telekomaufladen.de/) or use ["Prepaid Aufladung"
 app](https://itunes.apple.com/de/app/prepaid-aufladung/id881818215?mt=8). On the
 website, it's possible to set up automatic payments.
+
+To save time, just enable automatic payments.
 
 Todo:
 
@@ -81,15 +83,18 @@ Banks:
 
 ## Tax ID
 
-You receive one by mail after you first register in Germany, after 4+ weeks. If
-you went to register with the whole family (which is the right way to do), all
-members receive envelopes with their Tax IDs.
+You receive one from Finanzamt by mail after you first register in Germany,
+after 4+ weeks. If you went to register with the whole family (which is the
+right way to do), all members receive envelopes with their Tax IDs.
 
-No need to go to Finanzamt.
+No need to go to Finanzamt to get Tax ID, as it will be sent to you by mail.
 
-If, for some reason, delivery failed, you can TBD.
-
-- [ ] What if failed?
+If you are married and provide corresponding documents first time you register
+at KVR, you and your spouse will be both assigned tax category 4 (short: 4/4).
+In case you want to reassign it from 4/4 to 3/5 or 5/3, you have to bring a
+special paper (TODO what's its name?) filled in and signed by both partners. You
+can also do this by post, and the address to send to is "from" address on the
+letters you receive when you get your Tax ID.
 
 ## Long-term (aka cheap) rental
 
@@ -129,10 +134,17 @@ First thing you do is decide what kind of an apartment you're looking for. A
 separate room and one room combined with cooking space. For a family with a kid,
 to stay sane, it would be a good idea to look for a 3–room apartment.
 
+One more thing about apartments is 2.5-room, or generally "N.5-room" apartments.
+By law, a room can only be called a "0.5-room" if its area is less than 10
+square meters. If it's 10.1, it's a room. If it's 10.0, it's a half-room. A room
+being a half-room doesn't make itself cheaper or more expensive, because total
+area is what matters. If you plan to use it as a kids room, don't tell it to
+your potential landlord.
+
 Next, you start bombing potential landlords with messages that say
 
 - what good a person you are,
-- what gross or net income you have,
+- what gross or net income you have (better net),
 - that your spouse isn't a student, because nobody likes students,
 - that you don't have pets and also you don't smoke (and don't vape either),
 - that you have a working contract (in case you do),
@@ -147,11 +159,17 @@ that's actually a secondary sign of an agent. Typically, you don't have a
 choice: you're either given a certain time to visit an apartment for about 30
 minutes, otherwise good luck finding another one.
 
-Todo:
+If you are lucky to get invited to an apartment viewing, dress up and don't be
+late. I mean, seriously. Go there, tell about yourself (the same stuff as in
+your application letter), ask questions.
 
-- [ ] The hell is N½, like 1.5- or 2.5-room apartments?
-- [ ] Do landlords expect gross or net income in an intro message?
-- [ ] What happens next, when you visit a potential apartment?
+There are good questions to ask during the first meeting:
+
+- if there's landline phone or maybe even internet connection in the apartment,
+  or at least of there _was_ one (because most internet providers still use
+  ADSL),
+- is kitchen furnishing included (because sometimes it is),
+- TODO what else?
 
 ## Regular kids activities
 
@@ -175,9 +193,12 @@ Todo:
 
 ## Public transport
 
-Go to subway, buy a monthly card depending on your daily route.
+Go to subway, buy a monthly card depending on your daily route. If you live and
+work close to the city center, it's _IsarCard 9 uhr, Innenraum_, about €60 per
+month, that gives you ability to use all the public transport (not just subway)
+within first four rings (read further).
 
-The greater Munich area is divided into 4 zones, each consisting of 4 rinds, so
+The greater Munich area is divided into 4 zones, each consisting of 4 rings, so
 16 rings in total: [see official
 doc](http://www.mvv-muenchen.de/en/tickets-fares/tariff-structure/rings/index.html).
 You can download detailed maps there as well.
