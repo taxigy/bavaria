@@ -103,7 +103,9 @@ letters you receive when you get your Tax ID.
 
 ### Steuernummer vs Identifikationsnummer
 
-It's confusing and it's TODO.
+Links:
+
+- <https://www.smartsteuer.de/online/service/informationen_einkommensteuererklaerung/steuernummer-und-identifikationsnummer/>
 
 ## Long-term (aka cheap) rental
 
