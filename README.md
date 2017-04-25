@@ -182,6 +182,10 @@ There are good questions to ask during the first meeting:
 - is kitchen furnishing included (because sometimes it is),
 - TODO what else?
 
+## High-speed internet connection at home
+
+TBD.
+
 ## Regular kids activities
 
 For children under 6, there are two: Kindergarten and Tagesmutter. The former
