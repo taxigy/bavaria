@@ -226,3 +226,7 @@ You can also use an app to buy tickets, which is cool because a ticket, which is
 a piece of paper, can get worn out or lost. The phone can also get lost, of
 course, so choose wisely. The app is ["MVV
 Companion"](https://itunes.apple.com/de/app/mvv-companion/id388686726?mt=8).
+
+## Freelancing
+
+[See "Freelancing" chapter](./freelancing.md).
