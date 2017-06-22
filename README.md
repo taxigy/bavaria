@@ -8,6 +8,7 @@
 - [Bank account](./topics/bank.md)
 - [Home internet](./topics/internet.md)
 - [Transport](./topics/transport.md)
+- [Child benefits](./topics/child-benefits.md)
 
 ---
 
