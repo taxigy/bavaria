@@ -46,3 +46,5 @@ as soon as it's standing on the platform.
 
 The ticket is not limited by number of trips, but it works only until end of the
 day. You can go many places with it, time is the only limiting factor.
+
+See also [the whole map of places where you can go with Bayern-Ticket](https://bahnland-bayern.de/de/tickets/bayern-ticket).
